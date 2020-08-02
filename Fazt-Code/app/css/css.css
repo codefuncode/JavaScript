@@ -1,0 +1,28 @@
+.contenedor {
+    margin: 50px;
+}
+.seccion {
+    width: 40%;
+    float: left;
+    border: 1px solid black;
+    height: 400px;
+    padding: 50px;
+}
+textarea {
+    height: 200px;
+    width: 250px;
+}
+#enviar {
+    height: 50px;
+    width: 255px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+table, th, td {
+    border: 1px solid black;
+}
+.tituloNota {
+    width: 250px;
+}
